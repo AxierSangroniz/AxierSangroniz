@@ -18,7 +18,7 @@
 
 I am a **Data Analyst & Machine Learning enthusiast** with a strong background in **business, finance, and automation**.
 
-* 🎓 Degree in Commerce + Master in Legal & Tax Advisory
+* 🎓 Degree in Commerce
 * 📊 Data Analytics (Python, Pandas, ML, Deep Learning)
 * 🤖 Automation, scraping, AI agents & pipelines
 * 👁️ Computer Vision & intelligent systems
@@ -56,12 +56,12 @@ I enjoy building **end-to-end systems**: from raw data collection to modeling, e
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AxierSangroniz&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=AxierSangroniz&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxierSangroniz&layout=compact&theme=tokyonight" />
 </p>
 
 <hr/>
@@ -108,10 +108,10 @@ I enjoy building **end-to-end systems**: from raw data collection to modeling, e
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/axier-sangroniz-libano/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:axiersangronizlibano@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

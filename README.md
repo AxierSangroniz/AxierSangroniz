@@ -1,8 +1,10 @@
 <!-- ===================== PROFILE README (no YAML front matter) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Axier%20Sangroniz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:1e40af&height=230&section=header&text=Axier%20Sangroniz%20Libano&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Machine%20Learning%20|%20Automation&descAlignY=60&descSize=16" />
 </p>
+
+
 
 <p align="center">
   <strong>Data Analyst · Machine Learning · Automation · Computer Vision</strong>
@@ -13,6 +15,7 @@
 </p>
 
 <hr/>
+
 
 ## 👋 About Me
 
@@ -27,6 +30,14 @@ I am a **Data Analyst & Machine Learning enthusiast** with a strong background i
 I enjoy building **end-to-end systems**: from raw data collection to modeling, evaluation, automation, and visualization.
 
 <hr/>
+
+<h2>📊 Market pulse (daily)</h2>
+
+<p align="center">
+  <img src="https://finviz.com/chart.ashx?t=SPY&ty=c&ta=1&p=d&s=l" alt="S&P 500 proxy (SPY) — daily chart" />
+</p>
+
+
 
 ## 🧰 Tech Stack
 
@@ -125,5 +136,5 @@ I enjoy building **end-to-end systems**: from raw data collection to modeling, e
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=color=0:0ea5e9,50:2563eb,100:1e40af&height=120&section=footer" />
 </p>

@@ -1,10 +1,24 @@
----
+<!-- ===================== PROFILE README (no YAML front matter) ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Axier%20Sangroniz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <strong>Data Analyst · Machine Learning · Automation · Computer Vision</strong>
+</p>
+
+<p align="center">
+  <em>Turning data into decisions, models into products, and ideas into automated systems.</em>
+</p>
+
+<hr/>
 
 ## 👋 About Me
 
 I am a **Data Analyst & Machine Learning enthusiast** with a strong background in **business, finance, and automation**.
 
-* 🎓 Degree in Commerce
+* 🎓 Degree in Commerce + Master in Legal & Tax Advisory
 * 📊 Data Analytics (Python, Pandas, ML, Deep Learning)
 * 🤖 Automation, scraping, AI agents & pipelines
 * 👁️ Computer Vision & intelligent systems
@@ -12,21 +26,45 @@ I am a **Data Analyst & Machine Learning enthusiast** with a strong background i
 
 I enjoy building **end-to-end systems**: from raw data collection to modeling, evaluation, automation, and visualization.
 
----
+<hr/>
 
 ## 🧰 Tech Stack
 
 ### Programming & Data
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
 ### Machine Learning & AI
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch)
 
 ### Automation & Tools
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code)
+
+<hr/>
 
 ## 📈 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+<hr/>
 
 ## 🚀 Featured Projects
 
@@ -54,9 +92,9 @@ I enjoy building **end-to-end systems**: from raw data collection to modeling, e
 * Privacy-aware identification
 * Multi-camera synchronization
 
-> 📌 Each project is built with **production mindset**: logs, reproducibility, metrics, and automation.
+> 📌 Each project is built with a **production mindset**: logs, reproducibility, metrics, and automation.
 
----
+<hr/>
 
 ## 📌 What I’m Currently Working On
 
@@ -65,8 +103,27 @@ I enjoy building **end-to-end systems**: from raw data collection to modeling, e
 * 👁️ Computer vision systems for real-world environments
 * 📊 Data-driven business & investment analysis
 
----
+<hr/>
 
 ## 🤝 Let’s Connect
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:TU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>"Data is useless without context, and models are useless without deployment."</em>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, feel free to star or fork my projects
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+</p>

@@ -1,7 +1,7 @@
 <!-- ===================== PROFILE README (no YAML front matter) ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:1e40af&height=230&section=header&text=Axier%20Sangroniz%20Libano&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Machine%20Learning%20|%20Automation&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:1e40af&height=230&section=header&text=Axier%20Sangroniz%20Libano&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Data%20Scientist%20|%20Data%20Engineer%20in%20Training%20&descAlignY=60&descSize=16" />
 </p>
 
 

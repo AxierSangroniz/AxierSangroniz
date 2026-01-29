@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <strong>Data Analyst · Machine Learning · Automation · Computer Vision</strong>
+  <strong>Data Analyst · Data Scientist · Data engineer in training · Computer Vision</strong>
 </p>
 
 <p align="center">

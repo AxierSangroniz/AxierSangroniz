@@ -68,13 +68,22 @@ I enjoy building **end-to-end systems**: from raw data collection to modeling, e
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxierSangroniz&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=AxierSangroniz&theme=tokyonight" height="165" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AxierSangroniz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=AxierSangroniz&theme=tokyonight&hide_border=false&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxierSangroniz&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxierSangroniz&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800"
+  />
 </p>
+
 
 <hr/>
 
